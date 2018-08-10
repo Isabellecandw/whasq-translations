@@ -4,7 +4,7 @@
 "addwhasq-alert-too-many-skills-message" = "Un whasq ne peut comporter que 3 talents maximum";
 "addwhasq-alert-too-many-skills-title" = "Attention";
 "addwhasq-publish-action" = "Publier";
-"add-whasq-channel-label" = "Sélectionner le langage du Whasq :";
+"add-whasq-channel-label" = "Sélectionner la langue du Whasq :";
 "add-whasq-channel-title" = "Langage";
 "add-whasq-message-placeholder" = "Mon message (255 caractères max)";
 "add-whasq-miss-skill-button" = "Il manque un talent ?";
